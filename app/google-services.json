@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306808182438",
+    "firebase_url": "https://uass-de25c-default-rtdb.firebaseio.com",
+    "project_id": "uass-de25c",
+    "storage_bucket": "uass-de25c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306808182438:android:5c767ecfd0469d4e05c667",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306808182438-45eu5jjt6thg5iuuvli7ucq5oo3ktuj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmQE4um2WUkugqZZePyzyF45JoSZAaXEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306808182438-45eu5jjt6thg5iuuvli7ucq5oo3ktuj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
